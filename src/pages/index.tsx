@@ -17,8 +17,8 @@ export default function Home() {
               src="/logo.png"
               alt="Swiss Spices Logo"
               className="logo"
-              width={1200}
-              height={600}
+              width={400}
+              height={300}
             />
           </div>
           <h1>Coming Soon</h1>

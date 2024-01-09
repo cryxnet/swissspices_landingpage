@@ -17,11 +17,6 @@
   margin-bottom: 20px;
 }
 
-.logo {
-  height: 200px;
-  width: 500px;
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
   .logo {
