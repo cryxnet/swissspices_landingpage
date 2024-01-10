@@ -17,11 +17,17 @@
   margin-bottom: 20px;
 }
 
+.logo {
+    height: 300;
+    width: 400;
+}
+
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .logo {
     height: 100px;
-    width: 250px;
+    width: 200px;
   }
 
   .centered-container {
@@ -39,7 +45,7 @@
 
 @media (max-width: 480px) {
   .logo {
-    height: 80px;
+    height: 100px;
     width: 200px;
   }
 
